@@ -1,4 +1,4 @@
-a flutter ios real estate app wich i devloped as part of the soft ware anlysis project
+a flutter ios real estate app wich i devloped as part of the software anlysis project
 
 
 ![profile page](https://user-images.githubusercontent.com/53305598/196928943-94d1f30b-93f4-4039-8764-314fefd68bc3.png)
