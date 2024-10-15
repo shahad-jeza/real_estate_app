@@ -1,8 +1,27 @@
-a flutter ios real estate app wich i devloped as part of the software anlysis project
+# Mountain Real Estate iOS App
+
+## Overview
+
+Mountain Real Estate is an iOS application developed using Flutter as part of a software analysis project. The app aims to streamline the process of managing and searching for real estate properties, catering to both property owners and potential buyers/renters.
+
+## Features
+
+- **User Authentication:** Secure sign-up and login functionality
+- **Property Management:** Add, edit, and remove property listings
+- **Property Search:** Browse and filter available properties
+- **Detailed Listings:** View comprehensive information about each property
+- **User Profiles:** Manage personal information and property portfolios
+- **Interactive Map:** Locate properties using an integrated map feature
 
 
-![profile page](https://user-images.githubusercontent.com/53305598/196928943-94d1f30b-93f4-4039-8764-314fefd68bc3.png)
-![property details page](https://user-images.githubusercontent.com/53305598/196928957-e0f67a07-44b5-440c-9141-5338b80783a3.png)
-![Sign in-2](https://user-images.githubusercontent.com/53305598/196928963-64536a68-0c5b-42a4-a067-4c3c8945c38f.png)
-![Sign in](https://user-images.githubusercontent.com/53305598/196928967-08b58bd2-be06-4e54-9bba-4aee222d8648.png)
-![welcome page](https://user-images.githubusercontent.com/53305598/196928969-ad333106-0a68-4ff5-ae16-ff643ee3c5c5.png)
+## Development Process
+
+This app was developed as part of a software analysis subject project, following these key steps:
+1. Requirement gathering and analysis
+2. System design and architecture planning
+3. UI/UX design
+4. Implementation using Flutter
+5. Testing and bug fixing
+6. Documentation
+7.
+8. ![smartmockups_m2b2hxto](https://github.com/user-attachments/assets/1ce54c0f-4b13-498f-b04d-9604c3ca96d2)
