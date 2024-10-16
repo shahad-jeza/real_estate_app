@@ -24,5 +24,6 @@ This app was developed as part of a software analysis subject project, following
 5. Testing and bug fixing
 6. Documentation
 
-![smartmockups_m2b2hxto](https://github.com/user-attachments/assets/43f2e411-9032-4f23-98a6-38f8110859d7)
+
+![تصميم بدون عنوان-6](https://github.com/user-attachments/assets/edf0a95e-e98d-4140-b771-1198f74db85d)
 
