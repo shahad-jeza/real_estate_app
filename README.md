@@ -23,5 +23,6 @@ This app was developed as part of a software analysis subject project, following
 4. Implementation using Flutter
 5. Testing and bug fixing
 6. Documentation
-7.
-8. ![smartmockups_m2b2hxto](https://github.com/user-attachments/assets/1ce54c0f-4b13-498f-b04d-9604c3ca96d2)
+
+![smartmockups_m2b2hxto](https://github.com/user-attachments/assets/43f2e411-9032-4f23-98a6-38f8110859d7)
+
